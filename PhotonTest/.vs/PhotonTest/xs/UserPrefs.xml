@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D5166D50-4887-4780-F395-121243F58D17}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NetworkManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/NetworkManager.cs" Line="103" Column="6" />
+      <File FileName="Assets/Scripts/PlayerScript.cs" Line="10" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fc327f58-90bd-42ad-9d50-0fdd51877bb6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
